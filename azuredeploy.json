@@ -36,7 +36,7 @@
             "apiVersion": "2016-04-30-preview",
             "properties": {
                 "hardwareProfile": {
-                    "vmSize": "Standard_NV6"
+                    "vmSize": "Promo_NV6"
                 },
                 "storageProfile": {
                     "imageReference": {
